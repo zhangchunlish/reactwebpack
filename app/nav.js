@@ -12,7 +12,7 @@ const NavBar = () =>(
         <div>
             <NavLink exact to='/' className="blue">Jspanga</NavLink> |&nbsp;
             <NavLink to='/Jspangb' activeClassName="active">Jspangb</NavLink> |&nbsp;
-            <NavLink to='/Jspangc' activeClassName="active">Jspangc</NavLink> |&nbsp;
+            <NavLink to='/Jspangc/ILoveWeb/HelloJSPang' activeClassName="active">Jspangc</NavLink> |&nbsp;
             <NavLink to='/redirect' activeClassName="active">Redirect</NavLink> |&nbsp;
             <NavLink to='/react' activeClassName="active">404</NavLink>
         </div>
